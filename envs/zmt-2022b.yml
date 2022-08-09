@@ -1,7 +1,7 @@
-name: zmt-2022a
+name: zmt-2022b
 channels:
-  - defaults
   - conda-forge
+  - defaults
   - bioconda
 dependencies:
   - cmocean=2.*
